@@ -1,1 +1,4 @@
-{"mygrades": {"assignment2": 100, "assignment3": 100, "assignment1": 100, "participation": 100, "assignment4": -1}}
+{"11": {"assignment2": -1, "assignment3": -1, "assignment1": -1, "participation": 2, "assignment4": 1},
+  "10": {"assignment2": 100, "assignment3": 100, "assignment1": 100, "assignment4": 100, "participation": 100},
+  "13": {"assignment2": 100, "assignment3": 80, "assignment1": 80, "participation": 80, "assignment4": 80}
+}
